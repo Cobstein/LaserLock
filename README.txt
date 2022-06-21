@@ -1,4 +1,8 @@
-----------------------READ ME----------------------
+----------------------READ ME---------------------
+This program requires the use of a Bristol 871 wavemeter, Bristol fiber-optic switch, and LabJack T4 as a DAC. It will need to be edited to accomodate other equipment.
+The Lasers must be first manually tuned to have a mode-hop free tuning range large enough to accomodate the correction voltage sent.  
+
+
 HOW THE PROGRAM WORKS:
 Once the program is run and the devices are connected, it scans through all the ports of the switch and polls the wavemeter.
 If the wavemeter returns a signal then it assigns that port to a Laser field.
