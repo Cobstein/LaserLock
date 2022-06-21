@@ -1,0 +1,10 @@
+SetPoint1 935.18736
+SetPoint2 935.18736
+Kp 0
+Ki 0
+Kd 0
+Gain 0
+Offset 0
+HighVoltage 10
+LowVoltage -10
+DAC DAC0
