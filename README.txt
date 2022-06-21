@@ -1,6 +1,7 @@
 ----------------------READ ME---------------------
 This program requires the use of a Bristol 871 wavemeter, Bristol fiber-optic switch, and LabJack T4 as a DAC. It will need to be edited to accomodate other equipment.
 The Lasers must be first manually tuned to have a mode-hop free tuning range large enough to accomodate the correction voltage sent.  
+You will also need to download and run mccdaq.exe (For the Bristol switch) and LabJack-2019-05-20.exe (For the LabJack) from the web.
 
 
 HOW THE PROGRAM WORKS:
